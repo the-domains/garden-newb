@@ -1,0 +1,14 @@
+layout_spectrum: 0.8422939
+typography_spectrum: 0.9124352
+color:
+  saturation: 0.5412186
+  lightness: 0.6917562
+  brandStrength: 0.6075269
+  brandColors:
+    - '#5C5C65'
+    - '#BDBDBD'
+    - '#FBFFAC'
+    - '#D74265'
+    - '#E0D73B'
+  rhythmicContrast: 0.5179211
+name: Garden Newb
