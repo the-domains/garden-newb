@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Garden Newb]]></title>
+        <description><![CDATA[Garden Newb]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 14:06:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Grow Chilli Peppers | Thompson & Morgan]]></title>
+            <description><![CDATA[<article><h1>How to Grow Chilli Peppers | Thompson & Morgan</h1><p>When growing chillies in the UK, early sowing is the secret to give your chilli peppers plenty of time to ripen before the end of summer. Read our article on growing chillies for some chilli growing tips that will make you really feel the heat this summer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00090b0d487305f33d14265cd28c7eb23425ed2b.jpg"></article>]]></description>
+            <link>http://www.thompson-morgan.com/how-to-grow-chilli-peppers</link>
+            <guid isPermaLink="false">27c11894-cc9f-4315-bafc-ad965f1eac38</guid>
+            <pubDate>Mon, 21 Mar 2016 14:06:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
