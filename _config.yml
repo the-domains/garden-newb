@@ -1,3 +1,7 @@
+name: Garden Newb
+favicon: null
+layout_spectrum: 0.8422939
+typography_spectrum: 0.9124352
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9124352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5412186
-  brandStrength: 0.3870968
-  lightness: 0.6917562
   brandColors:
     - '#5C5C65'
     - '#BDBDBD'
     - '#FBFFAC'
     - '#D74265'
     - '#E0D73B'
+  brandStrength: 0.3870968
+  lightness: 0.6917562
+  saturation: 0.5412186
   rhythmicContrast: 0.5179211
-layout_spectrum: 0.8422939
-name: Garden Newb
+purpose: []
