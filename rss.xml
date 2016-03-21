@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Garden Newb]]></title>
         <description><![CDATA[Garden Newb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garden-newb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 14:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 15:47:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garden-newb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>I am new at this, completely new and this website is designed to let you know this.  I have just bought a new house and for the first time in 36 years I am interested in gardening.  I've bought myself a load of seeds, a propagator, a  new fork and I have a shed load of energy.</p></article>]]></description>
+            <link>https://thegrid.ai/garden-newb/home/index.html</link>
+            <guid isPermaLink="false">6a583f88-2f13-48cf-97d3-20f3749801e3</guid>
+            <pubDate>Mon, 21 Mar 2016 15:46:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Grow Chilli Peppers | Thompson & Morgan]]></title>
             <description><![CDATA[<article><h1>How to Grow Chilli Peppers | Thompson & Morgan</h1><p>When growing chillies in the UK, early sowing is the secret to give your chilli peppers plenty of time to ripen before the end of summer. Read our article on growing chillies for some chilli growing tips that will make you really feel the heat this summer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00090b0d487305f33d14265cd28c7eb23425ed2b.jpg"></article>]]></description>
