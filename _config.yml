@@ -1,7 +1,34 @@
-name: Garden Gnewb
-favicon: null
-layout_spectrum: 0.88403
 typography_spectrum: 0.4116
+color:
+  brandColors:
+    - '#3e424e'
+    - '#fdfeff'
+    - '#c0bbbf'
+    - '#80879a'
+    - '#d1ea69'
+  brandStrength: 0.1875
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.88403
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Garden Gnewb
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Mistakes
+    id: 75e620e4-e280-4cb2-97c8-c838abbd4926
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +42,4 @@ collections:
     permalink:
       path: '/:title/'
 title: Garden Gnewb
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#3e424e'
-    - '#fdfeff'
-    - '#c0bbbf'
-    - '#80879a'
-    - '#d1ea69'
-  brandStrength: 0.1875
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.25
 purpose: []
