@@ -28,6 +28,9 @@ navigation:
   - name: Mistakes
     id: 75e620e4-e280-4cb2-97c8-c838abbd4926
     type: content
+  - name: Home
+    id: 6a583f88-2f13-48cf-97d3-20f3749801e3
+    type: content
 favicon: null
 collections:
   - index:
